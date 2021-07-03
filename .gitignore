@@ -1,5 +1,6 @@
 
-# files
+# 文件-files
+.gitignore
 
 
 
@@ -10,7 +11,7 @@ D:\xc\xw\办公软件
 
 
 
-# directors
+# 目录-directors
 
 client
 config
